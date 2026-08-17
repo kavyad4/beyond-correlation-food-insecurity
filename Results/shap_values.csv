@@ -1,0 +1,24 @@
+Feature,Mean_SHAP
+Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),0.805518629148318
+"Annual freshwater withdrawals, total (% of internal resources)",0.2830707489260126
+CO2 emissions (metric tons per capita),0.2600908199487721
+"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)",0.17136489872039867
+CPIA business regulatory environment rating (1=low to 6=high),0.15235572018915133
+Adjusted savings: energy depletion (% of GNI),0.11243372283465075
+Renewable electricity output (% of total electricity output),0.10986049143038701
+Renewable energy consumption (% of total final energy consumption)_lag2,0.10794312192532018
+"Electricity production from renewable sources, excluding hydroelectric (% of total)",0.09087987256250751
+Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,0.09058464692148423
+Trade (% of GDP),0.08790423590204484
+Alternative and nuclear energy (% of total energy use),0.07847123125254071
+ESG_Score,0.07776445125055415
+Renewable energy consumption (% of total final energy consumption)_lag1,0.06507062182157224
+Political Stability and Absence of Violence/Terrorism: Estimate,0.06095004503089473
+ESG_Score_lag1,0.05493545422455779
+Renewable energy consumption (% of total final energy consumption),0.05014068080387031
+CPIA policy and institutions for environmental sustainability rating (1=low to 6=high),0.04641981485811713
+"Electricity production from oil, gas and coal sources (% of total)",0.046236382805741987
+GDP growth (annual %),0.04509288241309091
+ESG_Score_lag2,0.03720273205678747
+Political Stability and Absence of Violence/Terrorism: Estimate_lag2,0.024521749790886827
+Political Stability and Absence of Violence/Terrorism: Estimate_lag1,0.02342044298810473

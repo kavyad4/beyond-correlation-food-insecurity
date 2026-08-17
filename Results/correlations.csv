@@ -1,0 +1,32 @@
+Feature,Pearson_r,p_value
+Nitrous oxide emissions in energy sector (thousand metr,0.305,0.0
+CO2 emissions from liquid fuel consumption (% of total),-0.282,0.0
+"Annual freshwater withdrawals, total (% of internal res",0.233,0.0
+"Electricity production from renewable sources, excludin",-0.198,0.0
+GDP growth (annual %),0.163,0.0
+Political Stability and Absence of Violence/Terrorism: ,-0.151,0.0
+"Access to electricity, rural (% of rural population)",-0.146,0.0
+Political Stability and Absence of Violence/Terrorism: ,-0.139,0.0
+Political Stability and Absence of Violence/Terrorism: ,-0.136,0.0
+Access to electricity (% of population),-0.135,0.0
+Trade (% of GDP),-0.127,0.0
+"Agriculture, forestry, and fishing, value added (% of G",0.124,0.0
+ESG_trend,0.116,0.0
+"Water productivity, total (constant 2015 US$ GDP per cu",-0.109,0.0
+Renewable energy consumption (% of total final energy c,0.081,0.0011
+CPIA business regulatory environment rating (1=low to 6,-0.077,0.002
+Renewable energy consumption (% of total final energy c,0.075,0.0029
+Adjusted savings: energy depletion (% of GNI),0.066,0.008
+ESG_Score_lag2,-0.063,0.0119
+CO2 emissions (metric tons per capita),-0.061,0.0152
+ESG_Score,0.059,0.0178
+Level of water stress: freshwater withdrawal as a propo,-0.059,0.0177
+final_sentiment_score,0.056,0.0267
+final_sentiment_score_lag1,0.049,0.051
+"Electricity production from oil, gas and coal sources (",-0.047,0.0604
+Renewable energy consumption (% of total final energy c,0.041,0.106
+Renewable electricity output (% of total electricity ou,0.037,0.1374
+Alternative and nuclear energy (% of total energy use),-0.019,0.4535
+final_sentiment_score_lag2,0.011,0.6699
+ESG_Score_lag1,0.003,0.9179
+CPIA policy and institutions for environmental sustaina,-0.002,0.9274
